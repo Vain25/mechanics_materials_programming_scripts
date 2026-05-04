@@ -36,3 +36,4 @@ plt.savefig("beam_deflection_results.png", dpi=300)
 
 # Finally, show the window
 plt.show()
+
